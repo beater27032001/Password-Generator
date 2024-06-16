@@ -25,7 +25,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
 1. **Clone este repositório:**
 
     ```bash
-    git clone https://github.com/beater27032001/Todo-List.git
+    git clone https://github.com/beater27032001/Password-Generator.git
     cd nome-do-repositorio
     ```
 
@@ -49,4 +49,4 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
 
 Você também pode acessar o aplicativo online através do link abaixo:
 
-[To-Do List - Versão Online](https://todo-list-iota-ebon.vercel.app)
+[Password Generator - Versão Online](https://password-generator-khaki-seven.vercel.app)
